@@ -19,14 +19,13 @@ export default function About() {
 >
   The Artist
 </p>
-
 <h2
-  className="uppercase leading-[1.05] text-3xl sm:text-5xl text-henna-800"
-  style={{ fontFamily: "'Fraunces', serif", fontWeight: 600 }}
+  className="leading-[1.1] text-3xl sm:text-5xl text-henna-800 italic"
+  style={{ fontFamily: "'Fraunces', serif", fontWeight: 500 }}
 >
-  Steady hands,
+  Steady Hands,
   <br />
-  honest henna.
+  Honest Henna.
 </h2>
           <p className="font-body text-black mt-6 max-w-lg leading-relaxed">
             Every design starts fresh that morning — 100% organic cones mixed
