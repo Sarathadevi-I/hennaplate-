@@ -10,6 +10,7 @@ const FACTS = [
 
 export default function About() {
   return (
+    
     <section id="about" className="pt-24 sm:pt-32 pb-14 sm:pb-16 bg-pastel overflow-hidden">
       <div className="max-w-7xl mx-auto px-6 sm:px-10 grid lg:grid-cols-12 gap-16 lg:gap-10 items-center">
         <div className="lg:col-span-7">

@@ -63,7 +63,7 @@ export default function Hero() {
             href="tel:+919345822082"
             className="font-body text-sm text-henna-950 bg-pastel px-8 py-3.5 rounded-full hover:bg-henna-100 transition-colors focus-ring"
           >
-            Call to book
+          Call to book
           </a>
           <a
             href="https://wa.me/919345822082"
@@ -71,10 +71,13 @@ export default function Hero() {
             rel="noreferrer"
             className="font-body text-sm text-pastel border-b border-pastel/50 pb-1 hover:border-pastel transition-colors focus-ring"
           >
-            Chat on WhatsApp
+            Chat on Whatsapp
           </a>
         </div>
       </div>
     </section>
   );
 }
+
+
+// hjdhgjkdkfhgkjkfhkjfhkhjdfhgjdgjhjhdjhdhjhj
